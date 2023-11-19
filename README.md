@@ -1,3 +1,13 @@
+# wordpress with ubuntu server
+This repository contains how to make wordpress with ubuntu server
+
+# Things to be prepared
+1. ubuntu server
+2. apache
+3. mysql
+4. php
+5. wordpress
+
 # Ubuntu Server Configuration
 
 1. After downloading the ISO and running it on VirtualBox, open it and install.
