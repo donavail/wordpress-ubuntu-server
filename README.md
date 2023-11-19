@@ -1,4 +1,4 @@
-# wordpress with ubuntu server
+# Wordpress with ubuntu server
 This repository contains how to make wordpress with ubuntu server
 
 # Things to be prepared
